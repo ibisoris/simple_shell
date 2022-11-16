@@ -50,7 +50,6 @@ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsh
 * Pair programming and team work
 * Building a test suite to check our own code
 
-## Author
-*
-Ibinabo Orifama
-Kobby Ackor
+## Authors
+* Ibinabo Orifama
+* Kobby Ackor
