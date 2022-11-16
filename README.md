@@ -16,7 +16,7 @@
 * Use the Betty style. It will be checked using betty-style.pl and betty-doc.pl
 * Shell should not have any memory leaks
 * No more than 5 functions per file
-* All header files should be include guarded
+* All header files should be include guarded - Important
 * Write a README with the description of the project
 
 ## Description
