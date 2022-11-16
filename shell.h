@@ -17,7 +17,7 @@
 #define WRITE_BUF_SIZE 1024
 #define BUF_FLUSH -1
 
-/* for command chaining */
+/* For command chaining */
 #define CMD_NORM	0
 #define CMD_OR		1
 #define CMD_AND		2
